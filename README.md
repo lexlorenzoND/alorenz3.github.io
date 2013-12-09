@@ -24,19 +24,19 @@ Favorite Quote
 Those who matter don't mind and those who mind don't matter
 
 Favorite Website
-_________________
+----------------
 [Project One Link](project1.html).
 
 Post-Grad Plans
-________________
+---------------
 I firstly plan on taking an extra semester at Notre Dame so I will able to have the time to complete an honors degree. In the Spring of 2015 I will hopefully be spending time in <strong>Panama</strong> teaching children English while solidifying my own Spanish through World Teach.
 
 
 Class Schedule
-_______________
+--------------
 Chart of my class schedule
 
 Contact Form
-_____________
+-------------
 My contact form
 
